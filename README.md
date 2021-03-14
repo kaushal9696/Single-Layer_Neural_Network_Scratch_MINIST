@@ -1,6 +1,5 @@
-[Neural Network/ ML] Artificial Neural Network for Digit Recognition
+# [Neural Network/ ML] Artificial Neural Network for Digit Recognition
 
-# Introduction
 
 - The objective of this project is to use the perceptron learning method and
     design an artificial neural network (ANN) to train a simple system (single
